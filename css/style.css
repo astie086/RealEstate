@@ -45,5 +45,12 @@ header,
     padding-left: 200px;
 }
 
-#Partners {
+#contact {
+    color: black;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#contactform {
+    padding-right: 100px;
 }
